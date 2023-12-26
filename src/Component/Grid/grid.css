@@ -1,0 +1,17 @@
+.grid{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 2px;
+    border: 12px solid whitesmoke;
+    border-radius: 20px;
+}
+.grid:hover{
+    background-color: darkblue;
+}
+.Turn-Highlight{
+    color: bisque;
+}
